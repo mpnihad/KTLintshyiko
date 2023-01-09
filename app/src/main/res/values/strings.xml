@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Example KT Lint</string>
+    <string name="title_activity_main1">MainActivity1</string>
+</resources>
